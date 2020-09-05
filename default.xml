@@ -9,7 +9,7 @@
   <remote fetch="https://git.yoctoproject.org/git" name="yocto"/>
   <remote fetch="https://github.com/koansoftware" name="koan"/>
   <remote fetch="https://github.com/openembedded" name="oe"/>
-  <remote fetch="https://github.com/meta-qt5" name="qt5"/>
+  <remote fetch="https://github.com/" name="qt5"/>
 
   <remote fetch="http://github.com/STMicroelectronics" name="st"/>
 
